@@ -4,7 +4,8 @@
 
 在线访问：https://richelsky.github.io/chuan-dian-zang-qing/chuan-dian-zang-qing.html
 
-- `chuan-dian-zang-qing.html` 页面本体，10 张 SVG 地图 + 10 段 GPX 全部内嵌，零外链，5.0 MB
+- `chuan-dian-zang-qing.html` 页面本体，10 张 SVG 地图 + 10 段 GPX 全部内嵌，零外链，7.0 MB
+- 九张轨迹图已铺真实地图底图（缩略图级别路网，GCJ-02 已纠偏），页头可一键关掉只看线条
 - 零外部依赖，单文件可直接离线打开，断网也能看
 - 页面里每段轨迹都能单独下载 GPX，拖进奥维互动地图、两步路、Gaia 直接用
 
